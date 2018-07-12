@@ -1,5 +1,5 @@
 function A {
-	hi tisong !
+	hi tisong songtaeil !
 }
 
 function B {
